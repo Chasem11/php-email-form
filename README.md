@@ -72,6 +72,6 @@ A simple PHP-based contact form that uses PHPMailer for sending emails and store
 - **dotenv**: For handling environment variables
 
 ## Contact
-- **Your Name**: [chasemoffat11@gmail.com](mailto:chasemoffat11@gmail.com)
+- **My Email**: [chasemoffat11@gmail.com](mailto:chasemoffat11@gmail.com)
 - **GitHub**: [https://github.com/Chasem11](https://github.com/Chasem11)
 
