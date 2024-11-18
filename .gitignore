@@ -1,0 +1,38 @@
+# Ignore .env file to keep environment variables secure
+.env
+
+# Composer vendor directory
+/vendor
+
+node_modules
+
+# PHPStorm project files
+.idea/
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.swp
+*.tmp
+
+# VIM swap files
+*.swo
+*.swp
+
+# Cache directories
+/cache
+/tmp
+
+# Specific IDE or editor files
+*.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Other
+composer.lock
