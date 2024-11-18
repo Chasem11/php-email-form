@@ -5,9 +5,9 @@
     <title>Contact Form</title>
     <style>
         .rounded-form {
-            border-radius: 15px; /* Rounded corners */
-            padding: 20px; /* Add some padding inside the form */
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Add a subtle shadow for a better look */
+            border-radius: 15px;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
     </style>
 </head>
